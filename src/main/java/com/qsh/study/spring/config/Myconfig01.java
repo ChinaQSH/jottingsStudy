@@ -3,6 +3,7 @@ package com.qsh.study.spring.config;
 import com.qsh.study.spring.config.dto.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.transaction.annotation.Transactional;
 
 /**
  * <p>
@@ -16,6 +17,7 @@ import org.springframework.context.annotation.Configuration;
 public class Myconfig01 {
 
     @Bean
+    @Transactional
     public Person person(){
         return new Person(1,"ls");
     }

@@ -6,7 +6,11 @@
 
     <groupId>qsh_study</groupId>
     <artifactId>qsh_study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>small-spring-step-01</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -18,6 +22,11 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
             <version>5.3.14</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>5.2.6.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
