@@ -16,14 +16,12 @@ import org.junit.Test;
 public class test_BeanFactory {
     @Test
     public void test() {
-    //初始化 BeanFactory
+        //初始化 BeanFactory
         BeanFactory beanFactory = new BeanFactory();
-    //    注册bean
+        //    注册bean
         BeanDefinition beanDefinition = new BeanDefinition(new UserService());
-        beanFactory.registerBeanDefinition("userService",beanDefinition);
-
-
-    // 获取bean
+        beanFactory.registerBeanDefinition("userService", beanDefinition);
+        // 获取bean
         UserService userService = (UserService) beanFactory.getBean("userService");
         userService.getUserInfo();
     }
