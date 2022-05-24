@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="349f8610-f174-4c0e-bf07-26dd1f673746" name="Default Changelist" comment="" />
+    <list default="true" id="349f8610-f174-4c0e-bf07-26dd1f673746" name="Default Changelist" comment="手撸spring框架">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-nio-step-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/client/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/server/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-step-01/smallspringstep01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/configurer/advice/getMyParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/controller/ControllerAdviceTestConteroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/vo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBoot-demo01/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBoot-demo01/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/small-spring-step-01/target/" />
+    <ignored path="$PROJECT_DIR$/small-spring-step-02/target/" />
+    <ignored path="$PROJECT_DIR$/small-spring-step-02/small-spring-step-03/target/" />
+    <ignored path="$PROJECT_DIR$/small-spring-step-03/target/" />
+    <ignored path="$PROJECT_DIR$/springBoot-demo01/target/" />
+    <ignored path="$PROJECT_DIR$/FEBS-Shiro/target/" />
+    <ignored path="$PROJECT_DIR$/small-nio-step-01/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,106 +41,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/sql/febs_base.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-358">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="6" column="39" selection-end-line="621" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo2.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/xss/XssFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1250">
+              <caret line="62" column="28" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo3.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/xss/XssHttpServletRequestWrapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1100">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/small-nio-step-01/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo5.java">
+        <entry file="file://$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/server/NIOServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="1050">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,10 +86,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo10.java">
+        <entry file="file://$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/client/NIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="425">
+              <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,53 +98,86 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/testTemporalAdjuster.java">
+        <entry file="jar://C:/JDK/jdk8/src.zip!/java/nio/channels/SelectionKey.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="7100">
+              <caret line="310" column="25" selection-start-line="310" selection-start-column="25" selection-end-line="310" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#11552#11553#0" expanded="true" />
+                <element signature="e#11603#11604#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/LocalDate.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="829" column="45" lean-forward="true" selection-start-line="829" selection-start-column="45" selection-end-line="829" selection-end-column="45" />
-              <folding>
-                <element signature="e#34633#34634#0" expanded="true" />
-                <element signature="e#34695#34696#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="275">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/chrono/IsoChronology.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/IsCron.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="381" column="19" selection-start-line="381" selection-start-column="19" selection-end-line="381" selection-end-column="19" />
+            <state relative-caret-position="250">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/DayOfWeek.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Limit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+            <state relative-caret-position="250">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/Month.java">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Listener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+            <state relative-caret-position="275">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroConfigure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3000">
+              <caret line="145" column="45" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroEarlyBeanRegistrar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroLogoutService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="61" column="88" selection-start-line="61" selection-start-column="88" selection-end-line="61" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -193,9 +188,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createBean</find>
+      <find>validation</find>
+      <find>Validation</find>
+      <find>@PropertySource</find>
+      <find>NotBlank</find>
+      <find>required</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -213,6 +225,43 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/time/testTemporalAdjuster.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo9.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo10.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/config/dto/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/config/Myconfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/Myconfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/test/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/service/BookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/dao/BookDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/Myconfig02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/spring/config/Myconfig01.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-01/src/main/java/cn/qsh/springframework/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-01/src/main/java/cn/qsh/springframework/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-01/src/main/java/cn/qsh/springframework/test/bean/UserService.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-01/src/main/java/cn/qsh/springframework/test/testApi/test_BeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/config/SingletonBeanRegistry.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/config/AbstractBeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/config/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/config/DefaultSingletonBeanRegistry.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/BeansException.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/support/BeanDefinitionRegistry.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/support/DefaultListableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/test/bean/UserService.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/test/Apitest.java" />
+        <option value="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/qsh/springframework/beans/factory/support/AbstractBeanFactory.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/configurer/advice/getMyParams.java" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/vo/User.java" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/controller/ControllerAdviceTestConteroller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsh/study/demo/HelloWord.java" />
+        <option value="$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/server/NIOServer.java" />
+        <option value="$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/client/NIOClient.java" />
       </list>
     </option>
   </component>
@@ -233,18 +282,21 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1072" />
-    <option name="y" value="47" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="1" />
+    <option name="width" value="1936" />
+    <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -256,55 +308,114 @@
             <path>
               <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qsh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qsh" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qsh" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jottingsStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jottingsStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="small-nio-step-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qsh" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/job/ruiyuejob" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springBoot-demo01/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qshstudy\javastudy\jottingsStudy\springBoot-demo01\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qsh.study.config.dto" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -318,94 +429,110 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.java8LocalTimeDemo10.test">
-    <configuration name="java8LocalTimeDemo10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jottingsStudy" />
+  <component name="RunManager" selected="Application.NIOClient">
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qsh.nio.client.NIOClient" />
+      <module name="smallniostep01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qsh.study.time.*" />
+          <option name="PATTERN" value="com.qsh.nio.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.qsh.study.time" />
-      <option name="MAIN_CLASS_NAME" value="com.qsh.study.time.java8LocalTimeDemo10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qsh.nio.server.NIOServer" />
+      <module name="smallniostep01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qsh.nio.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qsh.study.spring.test.Test01" />
+      <module name="jottingsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qsh.study.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apitest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallspringstep02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.qsh.springframework.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.qsh.springframework.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.qsh.springframework.test.Apitest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java8LocalTimeDemo7.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jottingsStudy" />
+    <configuration name="test_BeanFactory.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallspringstep01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qsh.study.time.*" />
+          <option name="PATTERN" value="cn.qsh.springframework.test.testApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.qsh.study.time" />
-      <option name="MAIN_CLASS_NAME" value="com.qsh.study.time.java8LocalTimeDemo7" />
+      <option name="PACKAGE_NAME" value="cn.qsh.springframework.test.testApi" />
+      <option name="MAIN_CLASS_NAME" value="cn.qsh.springframework.test.testApi.test_BeanFactory" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java8LocalTimeDemo8.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jottingsStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qsh.study.time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qsh.study.time" />
-      <option name="MAIN_CLASS_NAME" value="com.qsh.study.time.java8LocalTimeDemo8" />
-      <option name="METHOD_NAME" value="test06" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springBoot-demo01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qsh.springbootdemo01.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="LaunchBrowser.Before.Run" url="http://localhost:8080" />
+      </method>
+    </configuration>
+    <configuration name="FebsShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="FEBS-Shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cc.mrbird.febs.FebsShiroApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java8LocalTimeDemo9.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jottingsStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qsh.study.time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qsh.study.time" />
-      <option name="MAIN_CLASS_NAME" value="com.qsh.study.time.java8LocalTimeDemo9" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testTemporalAdjuster.testTemporalAdjuster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jottingsStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qsh.study.time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qsh.study.time" />
-      <option name="MAIN_CLASS_NAME" value="com.qsh.study.time.testTemporalAdjuster" />
-      <option name="METHOD_NAME" value="testTemporalAdjuster" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.NIOClient" />
+      <item itemvalue="Application.NIOServer" />
+      <item itemvalue="JUnit.Apitest.test" />
+      <item itemvalue="JUnit.test_BeanFactory.test" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.FebsShiroApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.java8LocalTimeDemo10.test" />
-        <item itemvalue="JUnit.java8LocalTimeDemo9.test" />
-        <item itemvalue="JUnit.testTemporalAdjuster.testTemporalAdjuster" />
-        <item itemvalue="JUnit.java8LocalTimeDemo8.test06" />
-        <item itemvalue="JUnit.java8LocalTimeDemo7.test" />
+        <item itemvalue="Application.NIOClient" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="JUnit.Apitest.test" />
+        <item itemvalue="JUnit.test_BeanFactory.test" />
+        <item itemvalue="Application.Test01" />
       </list>
     </recent_temporary>
   </component>
@@ -420,17 +547,72 @@
       <option name="presentableId" value="Default" />
       <updated>1650529537140</updated>
       <workItem from="1650529540623" duration="608000" />
-      <workItem from="1650589996802" duration="12528000" />
+      <workItem from="1650589996802" duration="14147000" />
+      <workItem from="1650762283388" duration="664000" />
+      <workItem from="1650764019256" duration="610000" />
+      <workItem from="1650873964487" duration="5000000" />
+      <workItem from="1650939114338" duration="11578000" />
+      <workItem from="1651024227525" duration="10925000" />
+      <workItem from="1651108723183" duration="2295000" />
+      <workItem from="1652854517418" duration="6269000" />
+      <workItem from="1652922636785" duration="14958000" />
+      <workItem from="1653010022951" duration="8499000" />
+      <workItem from="1653267908295" duration="1169000" />
+      <workItem from="1653354240267" duration="734000" />
     </task>
+    <task id="LOCAL-00001" summary="spring相关学习">
+      <created>1650950900799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650950900799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="手撸spring框架">
+      <created>1650961543509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650961543509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="手撸spring框架">
+      <created>1651042055082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651042055082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="手撸spring框架">
+      <created>1651042453338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651042453338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="手撸spring框架">
+      <created>1651042487634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651042487634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="手撸spring框架">
+      <created>1651044075252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651044075252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="手撸spring框架">
+      <created>1651055467862</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651055467862</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="java8LocalTimeDemo5_test - 2022.04.22 at 13h 31m 09s.xml">
-      <configuration name="java8LocalTimeDemo5.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="java8LocalTimeDemo5_test - 2022.04.22 at 13h 32m 15s.xml">
-      <configuration name="java8LocalTimeDemo5.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="java8LocalTimeDemo7_test - 2022.04.22 at 13h 49m 55s.xml">
       <configuration name="java8LocalTimeDemo7.test" configurationId="JUnit" />
     </history-entry>
@@ -455,200 +637,417 @@
     <history-entry file="java8LocalTimeDemo10_test - 2022.04.22 at 15h 20m 08s.xml">
       <configuration name="java8LocalTimeDemo10.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="test_BeanFactory_test - 2022.04.26 at 16h 23m 52s.xml">
+      <configuration name="test_BeanFactory.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Apitest_test - 2022.04.27 at 14h 28m 19s.xml">
+      <configuration name="Apitest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13136000" />
+    <option name="totallyTimeSpent" value="77456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15795328" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24610245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2973274" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Analysis" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16035634" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Codota" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.2182628" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32850778" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Codota" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="RestServices" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring相关学习" />
+    <MESSAGE value="手撸spring框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="手撸spring框架" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/controller/ControllerAdviceTestConteroller.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/vo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/screenshot/mobile_screenshot_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/sql/febs_quartz.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="17" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/utils/AddressUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/utils/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/FebsShiroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/src/main/resources/ValidationMessages.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/job/controller/JobController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/febs.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/shiro-ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/spy.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/ValidationMessages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/exception/FebsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/service/ValidateCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn_repo/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar!/javax/validation/constraints/NotBlank.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn_repo/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/constraints/NotBlank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/system/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="64" column="44" lean-forward="true" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn_repo/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/javax/annotation/meta/TypeQualifierNickname.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mvn_repo/org/springframework/spring-context/5.3.9/spring-context-5.3.9.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/demo/HelloWord.java" />
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/ConditionOnRedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/FebsShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springBoot-demo01/src/main/java/com/qsh/springbootdemo01/controller/ControllerAdviceTestConteroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/screenshot/jetbrains.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/sql/febs_base.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="39" selection-end-line="621" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/xss/XssFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/xss/XssHttpServletRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/small-nio-step-01/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/Month.java">
+    <entry file="file://$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/server/NIOServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/chrono/IsoChronology.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="381" column="19" selection-start-line="381" selection-start-column="19" selection-end-line="381" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/LocalDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="829" column="45" lean-forward="true" selection-start-line="829" selection-start-column="45" selection-end-line="829" selection-end-column="45" />
-          <folding>
-            <element signature="e#34633#34634#0" expanded="true" />
-            <element signature="e#34695#34696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="1050">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo2.java">
+    <entry file="jar://C:/JDK/jdk8/src.zip!/java/nio/channels/SelectionKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="7100">
+          <caret line="310" column="25" selection-start-line="310" selection-start-column="25" selection-end-line="310" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#11552#11553#0" expanded="true" />
+            <element signature="e#11603#11604#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo3.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo4.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/IsCron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo5.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Limit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo6.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/annotation/Listener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo7.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroConfigure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="3000">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="30" selection-end-line="145" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/JDK/jdk8/src.zip!/java/time/DayOfWeek.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroEarlyBeanRegistrar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+        <state relative-caret-position="350">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/testTemporalAdjuster.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroLogoutService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo8.java">
+    <entry file="file://$PROJECT_DIR$/FEBS-Shiro/src/main/java/cc/mrbird/febs/common/authentication/ShiroRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="925">
+          <caret line="61" column="88" selection-start-line="61" selection-start-column="88" selection-end-line="61" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo9.java">
+    <entry file="file://$PROJECT_DIR$/small-nio-step-01/src/main/java/com/qsh/nio/client/NIOClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsh/study/time/java8LocalTimeDemo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="425">
+          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -658,6 +1057,29 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -680,6 +1102,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>smallniostep01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -694,6 +1129,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
