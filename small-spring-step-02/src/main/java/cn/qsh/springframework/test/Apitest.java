@@ -3,6 +3,7 @@ package cn.qsh.springframework.test;
 import cn.qsh.springframework.beans.factory.config.BeanDefinition;
 import cn.qsh.springframework.beans.factory.support.DefaultListableBeanFactory;
 import cn.qsh.springframework.test.bean.UserService;
+import cn.qsh.springframework.test.bean.UserServiceTwo;
 import org.junit.Test;
 
 /**
@@ -32,5 +33,16 @@ public class Apitest {
 
         System.out.println(user01);
 
+    }
+
+    @Test
+    public void testAllConstructors(){
+        DefaultListableBeanFactory defaultListableBeanFactory = new DefaultListableBeanFactory();
+        BeanDefinition beanDefinition = new BeanDefinition(UserServiceTwo.class);
+        defaultListableBeanFactory.registerBeanDefinition("user",beanDefinition);
+        //会报错，因为是有参构造函数   at java.lang.Class.newInstance(Class.java:427)
+        UserServiceTwo user = (UserServiceTwo) defaultListableBeanFactory.getBean("user");
+
+        System.out.println(user);
     }
 }

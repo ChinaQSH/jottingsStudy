@@ -10,7 +10,7 @@ import cn.qsh.springframework.beans.factory.config.DefaultSingletonBeanRegistry;
  *
  * @author: mini
  * @Date: 2022-04-26 17:42
- * @Description:
+ * @Description: 获取bean实例（将DefaultSingletonBeanRegistry获取bean的1方法覆盖）
  */
 
 public  abstract class AbstractBeanFactory extends DefaultSingletonBeanRegistry implements BeanFactory {
