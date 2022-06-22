@@ -13,6 +13,10 @@
         <module>small-spring-step-02</module>
         <module>small-spring-step-03</module>
         <module>small-nio-step-01</module>
+        <module>small-spring-step-04</module>
+        <module>small-jvm-step-01</module>
+        <module>study-design-01-1</module>
+        <module>study-design-01-2</module>
     </modules>
     <dependencies>
         <dependency>
