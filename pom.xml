@@ -17,6 +17,9 @@
         <module>small-jvm-step-01</module>
         <module>study-design-01-1</module>
         <module>study-design-01-2</module>
+        <module>study-design-02-01</module>
+        <module>study-design-02-02</module>
+        <module>plugInUnit</module>
     </modules>
     <dependencies>
         <dependency>
@@ -40,6 +43,39 @@
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
         </dependency>
+
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.32</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.2.10</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>1.2.10</version>
+        </dependency>
+        <dependency>
+            <groupId>org.logback-extensions</groupId>
+            <artifactId>logback-ext-spring</artifactId>
+            <version>0.1.5</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.78</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.24</version>
+        </dependency>
+
     </dependencies>
 
 
