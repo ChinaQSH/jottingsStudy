@@ -20,6 +20,8 @@
         <module>study-design-02-01</module>
         <module>study-design-02-02</module>
         <module>plugInUnit</module>
+        <module>study-collection-01</module>
+        <module>study_various_sorts</module>
     </modules>
     <dependencies>
         <dependency>
