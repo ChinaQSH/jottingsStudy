@@ -22,6 +22,7 @@
         <module>plugInUnit</module>
         <module>study-collection-01</module>
         <module>study_various_sorts</module>
+        <module>study-likou-01</module>
     </modules>
     <dependencies>
         <dependency>
